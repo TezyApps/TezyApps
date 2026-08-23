@@ -1,6 +1,4 @@
 
-### About Me:
-
 - 👋 Hi there, I'm Vengat!
 - 💼 iOS Mobile App Engineer
 - 🌱 Transitioning into full-stack Agentic AI Engineer
