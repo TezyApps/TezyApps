@@ -10,7 +10,8 @@
 
 ### 🚀 Featured Projects
 
-##### 🔐 Secure Sign-Up & Login System (full-stack-auth)
+<details>
+<summary><b> 🔐 Secure Sign-Up & Login System (full-stack-auth) </b></summary>
 
 Every product needs a trustworthy front door — a way to know who's using it and keep their data safe. This project is an end-to-end account system: a person can register, log in, and access their protected information, while the backend verifies every request behind the scenes using industry-standard authentication tokens.
 
@@ -18,7 +19,10 @@ Built with security as a first-class concern rather than an afterthought — pas
 
 **Why it matters:** demonstrates the ability to design and ship a secure, user-facing authentication flow — the foundation almost every product needs — across both a web backend and a mobile client.
 
-##### 📈 Predicting Outcomes from Data (height-weight-prediction)
+</details>
+
+<details>
+<summary><b> 📈 Predicting Outcomes from Data (height-weight-prediction) </b> </summary>
 
 A common business question: "given what we know about someone or something, can we predict an outcome?" This project explores that with a simple, explainable example — predicting a person's weight from their height, and separately, predicting a category (such as gender) from measurements.
 
@@ -26,10 +30,15 @@ Rather than treating the model as a black box, the project walks through the rea
 
 **Why it matters:** shows the ability to take raw data, build a predictive model, explain *why* it works to a non-technical audience, and package it for reuse — the core loop behind any data-driven product feature.
 
-##### 🧹 Turning Messy Data into Clean Answers (data_analyser)
+</details>
+
+<details>
+<summary><b> 🧹 Turning Messy Data into Clean Answers (data_analyser) </b></summary>
 
 Raw data is rarely usable as-is — missing values, inconsistent formatting, and bad rows are the norm. This tool takes a data file, cleans it up automatically, and hands back something reliable enough to make decisions from — the kind of everyday utility that saves hours of manual spreadsheet cleanup.
 
 Built with the same rigor expected of production software: automated tests to catch regressions, a continuous integration check that verifies every change, and clear documentation so anyone can pick it up and run it.
 
 **Why it matters:** demonstrates not just solving the problem, but doing it the "right way" — tested, documented, and verified automatically before anything ships.
+
+</details>
