@@ -11,7 +11,7 @@
 ### 🚀 Featured Projects
 
 <details>
-<summary><b> 🔐 Secure Sign-Up & Login System (full-stack-auth) </b></summary>
+<summary><b> 🔐 Secure Sign-Up & Login System (<a href="https://github.com/TezyApps/full-stack-auth">full-stack-auth</a>) </b></summary>
 
 Every product needs a trustworthy front door — a way to know who's using it and keep their data safe. This project is an end-to-end account system: a person can register, log in, and access their protected information, while the backend verifies every request behind the scenes using industry-standard authentication tokens.
 
@@ -22,7 +22,7 @@ Built with security as a first-class concern rather than an afterthought — pas
 </details>
 
 <details>
-<summary><b> 📈 Predicting Outcomes from Data (height-weight-prediction) </b> </summary>
+<summary><b> 📈 Predicting Outcomes from Data (<a href="https://github.com/TezyApps/height-weight-prediction">height-weight-prediction</a>) </b> </summary>
 
 A common business question: "given what we know about someone or something, can we predict an outcome?" This project explores that with a simple, explainable example — predicting a person's weight from their height, and separately, predicting a category (such as gender) from measurements.
 
@@ -33,7 +33,7 @@ Rather than treating the model as a black box, the project walks through the rea
 </details>
 
 <details>
-<summary><b> 🧹 Turning Messy Data into Clean Answers (data_analyser) </b></summary>
+<summary><b> 🧹 Turning Messy Data into Clean Answers (<a href="https://github.com/TezyApps/data_analyser">data_analyser</a>) </b></summary>
 
 Raw data is rarely usable as-is — missing values, inconsistent formatting, and bad rows are the norm. This tool takes a data file, cleans it up automatically, and hands back something reliable enough to make decisions from — the kind of everyday utility that saves hours of manual spreadsheet cleanup.
 
