@@ -6,8 +6,8 @@
 - 🪄 Currently learning Python, Machine Learning, React, ExpressJS, Data Science & Statistics
 - 💬 Reach out or want to know more? - [LinkedIn](https://www.linkedin.com/in/vengatesan-ganesan/) | [Vengatesan Ganesan](https://bold.pro/my/vengatesan-ganesan)
 
-#### 🚀 Featured Projects
-<br/>
+### 🚀 Featured Projects
+
 <details>
 <summary><b> 🔐 Secure Sign-Up & Login System (<a href="https://github.com/TezyApps/full-stack-auth">full-stack-auth</a>) </b></summary>
 <br/>
