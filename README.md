@@ -6,10 +6,8 @@
 - 🪄 Currently learning Python, Machine Learning, React, ExpressJS, Data Science & Statistics
 - 💬 Reach out or want to know more? - [LinkedIn](https://www.linkedin.com/in/vengatesan-ganesan/) | [Vengatesan Ganesan](https://bold.pro/my/vengatesan-ganesan)
 
----
-
-### 🚀 Featured Projects
-
+#### 🚀 Featured Projects
+<br/>
 <details>
 <summary><b> 🔐 Secure Sign-Up & Login System (<a href="https://github.com/TezyApps/full-stack-auth">full-stack-auth</a>) </b></summary>
 <br/>
@@ -19,7 +17,7 @@ Built with security as a first-class concern rather than an afterthought — pas
 
 **Why it matters:** demonstrates the ability to design and ship a secure, user-facing authentication flow — the foundation almost every product needs — across both a web backend and a mobile client.
 
-</details><br/>
+</details>
 
 <details>
 <summary><b> 📈 Predicting Outcomes from Data (<a href="https://github.com/TezyApps/height-weight-prediction">height-weight-prediction</a>) </b> </summary>
@@ -30,7 +28,7 @@ Rather than treating the model as a black box, the project walks through the rea
 
 **Why it matters:** shows the ability to take raw data, build a predictive model, explain *why* it works to a non-technical audience, and package it for reuse — the core loop behind any data-driven product feature.
 
-</details><br/>
+</details>
 
 <details>
 <summary><b> 🧹 Turning Messy Data into Clean Answers (<a href="https://github.com/TezyApps/data_analyser">data_analyser</a>) </b></summary>
@@ -41,4 +39,4 @@ Built with the same rigor expected of production software: automated tests to ca
 
 **Why it matters:** demonstrates not just solving the problem, but doing it the "right way" — tested, documented, and verified automatically before anything ships.
 
-</details><br/>
+</details>
